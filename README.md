@@ -1,5 +1,5 @@
 # retrosheet-org
-Team data from retrosheet.org
+Data from retrosheet.org
 
 `The information used here was obtained free of
 charge from and is copyrighted by Retrosheet.  Interested
