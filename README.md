@@ -1,2 +1,6 @@
 # retrosheet-org
-Ancillary data from retrosheet.org
+Team data from retrosheet.org
+
+`The information used here was obtained free of
+charge from and is copyrighted by Retrosheet.  Interested
+parties may contact Retrosheet at "www.retrosheet.org".`
